@@ -1,0 +1,15 @@
+Name,Email,Phone,City,Notes
+John Smith,john.smith@email.com,(555) 123-4567,Chicago,Regular customer
+JOHN SMITH,john.smith@email.com,(555) 123-4567,Chicago,Regular customer
+ maria garcia,maria.g@email.com,555-987-6543,Austin,
+Maria Garcia,maria.g@email.com,555.987.6543,austin,VIP
+David Lee,,5551122334,Seattle ,Prefers email contact
+Sarah O'Connor,sarah.oc@email.com,555 234 5566,New York,
+sarah o'connor,sarah.oc@email.com,555-234-5566,new york,Duplicate entry
+Amit Patel,amit.patel@email.com,,Boston,Missing phone number
+Chen Wei,chen.wei@email.com,(555) 876-5432,  Denver,
+Emily Davis,emily.davis@email.com,555-345-6677,Miami,
+EMILY DAVIS,EMILY.DAVIS@EMAIL.COM,5553456677,MIAMI,Exact-ish duplicate
+,unknown@email.com,555-999-0000,Phoenix,Missing name
+Robert Brown,robert.brown@email.com,555 111 2222,portland,
+Linda Kim, linda.kim@email.com ,(555) 222-3344,Portland,Trailing/leading spaces in email
